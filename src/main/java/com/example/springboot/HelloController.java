@@ -8,7 +8,7 @@ public class HelloController {
 
 	@RequestMapping("/")
 	public String index() {
-		return "Greetings from Spring VMware + Tanzu! updated by ybhagwan";
+		return "Greetings from Spring VMware + Tanzu! updated by ybhagwan for multicluster testing";
 	}
 
 }
