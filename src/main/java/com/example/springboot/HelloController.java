@@ -8,7 +8,7 @@ public class HelloController {
 
 	@RequestMapping("/")
 	public String index() {
-		return "Greetings from ybhagwan innerloop testing + tap 1.2.0-build.13 iterate update";
+		return "Greetings from ybhagwan innerloop testing + tap 1.2.0-build.14 testing_scannin update";
 	}
 
 }
